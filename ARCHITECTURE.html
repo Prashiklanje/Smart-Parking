@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Parking System - Architecture</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 2rem;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 3rem;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+        }
+        
+        h1 {
+            text-align: center;
+            color: #667eea;
+            margin-bottom: 3rem;
+            font-size: 2.5rem;
+        }
+        
+        .architecture {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .layer {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 2rem;
+            border: 3px solid #e0e0e0;
+        }
+        
+        .layer h2 {
+            color: #333;
+            margin-bottom: 1.5rem;
+            text-align: center;
+            font-size: 1.5rem;
+        }
+        
+        .component {
+            background: white;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            border-left: 4px solid #667eea;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+        .component h3 {
+            color: #667eea;
+            font-size: 1.1rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .component p {
+            color: #666;
+            font-size: 0.9rem;
+            line-height: 1.4;
+        }
+        
+        .flow {
+            background: #fff3cd;
+            border: 2px dashed #ffc107;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .flow h2 {
+            color: #856404;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+        
+        .flow-steps {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+        }
+        
+        .step {
+            background: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            text-align: center;
+            position: relative;
+        }
+        
+        .step-number {
+            background: #667eea;
+            color: white;
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin: 0 auto 1rem;
+            font-size: 1.2rem;
+        }
+        
+        .step h4 {
+            color: #333;
+            margin-bottom: 0.5rem;
+        }
+        
+        .step p {
+            color: #666;
+            font-size: 0.9rem;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .feature-box {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 2rem;
+            border-radius: 12px;
+        }
+        
+        .feature-box h2 {
+            margin-bottom: 1.5rem;
+            font-size: 1.5rem;
+        }
+        
+        .feature-box ul {
+            list-style: none;
+        }
+        
+        .feature-box li {
+            padding: 0.5rem 0;
+            padding-left: 1.5rem;
+            position: relative;
+        }
+        
+        .feature-box li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+        
+        .tech-stack {
+            background: #e8f5e9;
+            border-radius: 12px;
+            padding: 2rem;
+            margin-bottom: 3rem;
+        }
+        
+        .tech-stack h2 {
+            color: #2e7d32;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+        
+        .tech-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 1rem;
+        }
+        
+        .tech-item {
+            background: white;
+            padding: 1rem;
+            border-radius: 8px;
+            text-align: center;
+            font-weight: 600;
+            color: #2e7d32;
+        }
+        
+        .matrix-example {
+            background: #f5f5f5;
+            border-radius: 12px;
+            padding: 2rem;
+        }
+        
+        .matrix-example h2 {
+            color: #333;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+        
+        .matrix-visual {
+            display: grid;
+            grid-template-columns: repeat(4, 80px);
+            gap: 10px;
+            justify-content: center;
+            margin: 2rem 0;
+        }
+        
+        .matrix-cell {
+            width: 80px;
+            height: 80px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+        
+        .matrix-cell.slot {
+            background: #4caf50;
+            color: white;
+        }
+        
+        .matrix-cell.empty {
+            background: #e0e0e0;
+            color: #999;
+        }
+        
+        .matrix-code {
+            background: #263238;
+            color: #aed581;
+            padding: 1.5rem;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🅿️ Smart Parking System - Architecture Overview</h1>
+        
+        <div class="architecture">
+            <div class="layer">
+                <h2>Frontend Layer</h2>
+                <div class="component">
+                    <h3>React Components</h3>
+                    <p>Modern UI with hooks and context API</p>
+                </div>
+                <div class="component">
+                    <h3>Authentication</h3>
+                    <p>JWT-based user sessions</p>
+                </div>
+                <div class="component">
+                    <h3>Dashboard Views</h3>
+                    <p>Owner & User interfaces</p>
+                </div>
+                <div class="component">
+                    <h3>Layout Grid</h3>
+                    <p>Interactive 2D parking visualization</p>
+                </div>
+            </div>
+            
+            <div class="layer">
+                <h2>Backend Layer</h2>
+                <div class="component">
+                    <h3>Express Server</h3>
+                    <p>RESTful API endpoints</p>
+                </div>
+                <div class="component">
+                    <h3>Auth Middleware</h3>
+                    <p>Role-based access control</p>
+                </div>
+                <div class="component">
+                    <h3>Business Logic</h3>
+                    <p>Booking validation & slot allocation</p>
+                </div>
+                <div class="component">
+                    <h3>Data Management</h3>
+                    <p>CRUD operations for all entities</p>
+                </div>
+            </div>
+            
+            <div class="layer">
+                <h2>Data Layer</h2>
+                <div class="component">
+                    <h3>Users Collection</h3>
+                    <p>Owner & user accounts</p>
+                </div>
+                <div class="component">
+                    <h3>Parking Areas</h3>
+                    <p>Locations with 2D layouts</p>
+                </div>
+                <div class="component">
+                    <h3>Vehicles</h3>
+                    <p>User registered vehicles</p>
+                </div>
+                <div class="component">
+                    <h3>Bookings</h3>
+                    <p>Reservation records</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="flow">
+            <h2>🔄 Booking Flow</h2>
+            <div class="flow-steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <h4>Search</h4>
+                    <p>User searches for parking areas</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <h4>Select</h4>
+                    <p>View layout & choose slot</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <h4>Validate</h4>
+                    <p>System checks availability</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">4</div>
+                    <h4>Book</h4>
+                    <p>Confirm reservation</p>
+                </div>
+                <div class="step">
+                    <div class="step-number">5</div>
+                    <h4>Lock</h4>
+                    <p>Slot marked as booked</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="features">
+            <div class="feature-box">
+                <h2>Owner Features</h2>
+                <ul>
+                    <li>Register parking areas</li>
+                    <li>Design custom layouts</li>
+                    <li>Set pricing & timings</li>
+                    <li>View all bookings</li>
+                    <li>Monitor occupancy</li>
+                    <li>Manage slot availability</li>
+                    <li>Analytics dashboard</li>
+                </ul>
+            </div>
+            
+            <div class="feature-box">
+                <h2>User Features</h2>
+                <ul>
+                    <li>Search parking areas</li>
+                    <li>Register vehicles</li>
+                    <li>View real-time layouts</li>
+                    <li>Select preferred slots</li>
+                    <li>Book parking spaces</li>
+                    <li>View booking history</li>
+                    <li>Cancel reservations</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div class="tech-stack">
+            <h2>🛠️ Technology Stack</h2>
+            <div class="tech-grid">
+                <div class="tech-item">React 18</div>
+                <div class="tech-item">Node.js</div>
+                <div class="tech-item">Express</div>
+                <div class="tech-item">JWT Auth</div>
+                <div class="tech-item">bcrypt</div>
+                <div class="tech-item">REST API</div>
+                <div class="tech-item">CSS3</div>
+                <div class="tech-item">MongoDB Ready</div>
+            </div>
+        </div>
+        
+        <div class="matrix-example">
+            <h2>🎯 2D Matrix Layout System</h2>
+            <p style="text-align: center; color: #666; margin-bottom: 2rem;">
+                The parking layout is represented as a 2D matrix where each cell can be a parking slot or empty space
+            </p>
+            
+            <div class="matrix-visual">
+                <div class="matrix-cell slot">A1</div>
+                <div class="matrix-cell slot">A2</div>
+                <div class="matrix-cell empty">—</div>
+                <div class="matrix-cell slot">A4</div>
+                
+                <div class="matrix-cell slot">B1</div>
+                <div class="matrix-cell slot">B2</div>
+                <div class="matrix-cell slot">B3</div>
+                <div class="matrix-cell slot">B4</div>
+                
+                <div class="matrix-cell empty">—</div>
+                <div class="matrix-cell slot">C2</div>
+                <div class="matrix-cell slot">C3</div>
+                <div class="matrix-cell empty">—</div>
+            </div>
+            
+            <div class="matrix-code">
+[<br>
+&nbsp;&nbsp;[1, 1, 0, 1],&nbsp;&nbsp;// Row A: Slots A1, A2, A4<br>
+&nbsp;&nbsp;[1, 1, 1, 1],&nbsp;&nbsp;// Row B: Slots B1, B2, B3, B4<br>
+&nbsp;&nbsp;[0, 1, 1, 0]&nbsp;&nbsp;&nbsp;// Row C: Slots C2, C3<br>
+]
+            </div>
+            
+            <p style="text-align: center; color: #666; margin-top: 2rem;">
+                <strong>1</strong> = Parking Slot (Green) &nbsp;|&nbsp; <strong>0</strong> = Empty/Pathway (Gray)
+            </p>
+        </div>
+    </div>
+</body>
+</html>
