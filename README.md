@@ -2,6 +2,9 @@
 
 A comprehensive web-based platform for managing and booking parking spaces with real-time availability, 2D layout visualization, and role-based access control.
 
+## Deployed Link - https://smart-parking-weld.vercel.app/
+   Front-end + backend + Database
+
 ## 🌟 Features
 
 ### For Parking Owners
