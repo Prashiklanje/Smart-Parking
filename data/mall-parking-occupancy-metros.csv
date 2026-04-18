@@ -1,0 +1,505 @@
+city,mall_name,date,day_of_week,hour_ist,occupancy_pct,is_peak_hour,is_peak_day
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,0,12.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,1,11.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,2,4.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,3,12.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,4,7.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,5,14.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,6,12.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,7,12.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,8,22.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,9,22.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,10,32.7,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,11,33.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,12,47.3,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,13,48.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,14,40.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,15,56.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,16,53.3,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,17,69.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,18,79.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,19,82.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,20,68.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,21,74.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,22,51.3,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-23,Monday,23,12.8,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,0,11.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,1,12.2,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,2,6.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,3,8.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,4,6.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,5,11.9,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,6,7.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,7,14.9,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,8,20.0,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,9,18.5,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,10,29.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,11,43.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,12,44.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,13,39.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,14,49.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,15,51.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,16,52.0,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,17,65.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,18,63.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,19,72.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,20,69.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,21,59.3,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,22,47.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-23,Monday,23,13.3,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,0,6.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,1,6.7,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,2,5.3,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,3,3.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,4,0.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,5,11.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,6,12.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,7,11.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,8,12.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,9,19.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,10,21.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,11,29.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,12,30.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,13,41.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,14,42.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,15,50.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,16,51.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,17,55.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,18,63.3,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,19,79.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,20,76.2,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,21,70.7,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,22,52.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-23,Monday,23,13.0,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,0,5.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,1,7.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,2,14.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,3,2.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,4,4.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,5,11.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,6,12.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,7,11.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,8,22.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,9,24.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,10,25.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,11,29.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,12,44.0,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,13,39.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,14,44.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,15,57.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,16,54.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,17,61.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,18,70.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,19,79.6,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,20,67.7,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,21,75.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,22,47.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-24,Tuesday,23,13.3,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,0,3.2,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,1,13.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,2,5.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,3,0.8,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,4,9.5,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,5,9.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,6,13.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,7,5.2,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,8,11.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,9,20.9,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,10,24.9,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,11,36.5,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,12,44.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,13,54.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,14,52.5,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,15,48.5,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,16,55.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,17,62.0,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,18,67.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,19,65.9,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,20,68.5,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,21,68.5,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,22,37.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-24,Tuesday,23,14.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,0,3.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,1,4.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,2,1.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,3,6.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,4,1.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,5,2.3,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,6,12.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,7,15.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,8,22.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,9,21.7,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,10,18.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,11,32.3,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,12,37.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,13,33.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,14,46.7,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,15,42.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,16,54.2,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,17,54.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,18,60.2,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,19,82.3,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,20,74.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,21,67.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,22,40.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-24,Tuesday,23,12.7,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,0,6.7,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,1,12.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,2,12.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,3,11.3,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,4,9.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,5,13.0,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,6,9.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,7,12.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,8,22.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,9,24.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,10,38.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,11,34.3,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,12,43.0,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,13,52.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,14,54.7,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,15,45.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,16,51.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,17,63.3,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,18,71.6,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,19,75.3,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,20,81.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,21,63.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,22,49.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-25,Wednesday,23,14.0,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,0,6.8,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,1,3.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,2,12.8,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,3,2.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,4,8.2,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,5,3.9,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,6,11.8,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,7,12.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,8,21.3,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,9,14.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,10,20.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,11,37.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,12,41.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,13,47.0,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,14,53.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,15,50.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,16,66.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,17,62.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,18,62.8,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,19,67.2,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,20,74.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,21,70.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,22,45.3,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-25,Wednesday,23,13.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,0,13.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,1,5.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,2,3.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,3,8.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,4,11.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,5,5.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,6,1.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,7,12.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,8,12.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,9,21.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,10,24.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,11,39.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,12,39.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,13,43.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,14,39.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,15,40.7,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,16,49.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,17,58.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,18,64.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,19,78.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,20,71.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,21,75.3,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,22,53.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-25,Wednesday,23,14.6,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,0,12.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,1,14.0,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,2,10.0,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,3,10.0,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,4,12.6,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,5,15.0,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,6,12.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,7,14.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,8,20.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,9,24.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,10,25.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,11,31.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,12,37.6,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,13,45.3,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,14,53.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,15,42.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,16,48.3,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,17,69.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,18,73.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,19,76.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,20,67.5,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,21,66.7,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,22,51.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-26,Thursday,23,13.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,0,8.5,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,1,1.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,2,9.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,3,6.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,4,11.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,5,0.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,6,13.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,7,11.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,8,22.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,9,27.5,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,10,27.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,11,36.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,12,46.9,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,13,41.9,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,14,46.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,15,48.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,16,60.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,17,62.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,18,65.3,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,19,71.2,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,20,65.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,21,59.3,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,22,34.6,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-26,Thursday,23,13.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,0,6.2,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,1,6.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,2,7.7,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,3,5.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,4,9.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,5,10.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,6,11.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,7,14.3,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,8,23.2,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,9,17.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,10,23.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,11,36.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,12,39.2,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,13,43.3,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,14,46.7,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,15,46.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,16,43.7,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,17,55.2,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,18,65.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,19,84.7,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,20,74.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,21,76.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,22,44.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-26,Thursday,23,12.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,0,11.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,1,14.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,2,13.1,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,3,12.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,4,12.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,5,7.7,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,6,13.6,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,7,14.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,8,27.7,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,9,30.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,10,38.3,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,11,37.0,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,12,51.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,13,61.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,14,60.2,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,15,55.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,16,57.9,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,17,83.0,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,18,88.3,TRUE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,19,92.0,TRUE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,20,95.4,TRUE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,21,84.4,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,22,57.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-27,Friday,23,13.4,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,0,7.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,1,14.5,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,2,14.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,3,11.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,4,3.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,5,12.8,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,6,5.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,7,12.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,8,16.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,9,26.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,10,26.0,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,11,41.8,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,12,47.2,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,13,64.0,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,14,61.1,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,15,65.0,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,16,70.7,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,17,72.2,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,18,89.3,TRUE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,19,89.3,TRUE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,20,87.5,TRUE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,21,80.0,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,22,52.3,FALSE,FALSE
+Pune,Phoenix Marketcity Pune,2026-03-27,Friday,23,12.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,0,1.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,1,9.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,2,5.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,3,11.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,4,11.0,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,5,12.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,6,10.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,7,12.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,8,20.6,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,9,27.8,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,10,29.3,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,11,36.7,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,12,49.2,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,13,48.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,14,47.1,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,15,53.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,16,64.4,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,17,73.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,18,85.2,TRUE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,19,85.9,TRUE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,20,92.7,TRUE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,21,80.9,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,22,54.5,FALSE,FALSE
+Bangalore,Orion Mall Rajajinagar,2026-03-27,Friday,23,13.8,FALSE,FALSE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,0,18.2,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,1,10.8,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,2,15.8,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,3,15.0,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,4,9.3,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,5,9.5,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,6,16.5,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,7,15.8,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,8,25.6,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,9,36.1,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,10,44.4,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,11,55.6,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,12,64.2,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,13,72.6,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,14,71.5,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,15,74.2,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,16,89.2,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,17,97.2,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,18,100.0,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,19,100.0,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,20,100.0,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,21,100.0,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,22,75.4,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-28,Saturday,23,16.2,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,0,16.3,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,1,9.0,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,2,5.1,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,3,15.5,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,4,14.7,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,5,11.9,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,6,9.6,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,7,14.8,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,8,19.6,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,9,28.0,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,10,45.4,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,11,56.7,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,12,67.1,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,13,69.8,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,14,82.2,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,15,86.2,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,16,96.2,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,17,94.1,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,18,100.0,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,19,100.0,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,20,100.0,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,21,100.0,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,22,68.9,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-28,Saturday,23,17.4,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,0,16.6,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,1,7.6,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,2,8.0,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,3,3.3,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,4,3.7,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,5,15.1,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,6,14.3,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,7,18.1,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,8,36.9,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,9,27.6,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,10,42.7,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,11,51.4,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,12,62.6,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,13,60.3,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,14,75.3,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,15,72.7,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,16,76.0,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,17,85.0,TRUE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,18,100.0,TRUE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,19,100.0,TRUE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,20,100.0,TRUE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,21,100.0,TRUE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,22,79.6,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-28,Saturday,23,15.1,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,0,8.8,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,1,17.6,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,2,17.2,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,3,16.7,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,4,18.7,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,5,17.3,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,6,18.4,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,7,18.5,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,8,35.4,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,9,32.9,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,10,45.0,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,11,50.9,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,12,53.9,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,13,62.2,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,14,71.3,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,15,80.3,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,16,86.4,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,17,94.3,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,18,98.5,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,19,100.0,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,20,100.0,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,21,92.3,TRUE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,22,65.4,FALSE,TRUE
+Mumbai,Palladium Mall Lower Parel,2026-03-29,Sunday,23,18.2,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,0,5.6,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,1,4.5,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,2,7.6,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,3,5.8,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,4,17.2,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,5,9.8,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,6,9.8,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,7,15.5,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,8,27.2,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,9,29.9,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,10,42.5,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,11,48.7,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,12,68.2,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,13,68.1,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,14,73.5,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,15,70.6,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,16,73.3,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,17,86.4,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,18,99.4,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,19,100.0,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,20,100.0,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,21,88.4,TRUE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,22,66.2,FALSE,TRUE
+Pune,Phoenix Marketcity Pune,2026-03-29,Sunday,23,17.4,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,0,12.0,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,1,9.4,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,2,9.0,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,3,9.5,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,4,10.8,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,5,15.6,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,6,12.9,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,7,16.5,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,8,24.9,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,9,26.8,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,10,46.6,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,11,56.1,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,12,62.0,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,13,56.7,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,14,67.4,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,15,76.3,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,16,79.7,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,17,86.6,TRUE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,18,92.2,TRUE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,19,100.0,TRUE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,20,100.0,TRUE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,21,100.0,TRUE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,22,68.6,FALSE,TRUE
+Bangalore,Orion Mall Rajajinagar,2026-03-29,Sunday,23,17.8,FALSE,TRUE

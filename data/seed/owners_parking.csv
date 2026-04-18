@@ -1,0 +1,11 @@
+owner_email,owner_password,owner_name,owner_phone,parking_area_name,location,price_per_hour,rows,cols,entry_row,entry_col,layout_rows,vehicle_types,timings
+arjun.mehta@seed.local,SeedOwner1!,Arjun Mehta,9800000001,Phoenix East Wing,Viman Nagar Pune,55,3,4,0,0,,Car|2-wheeler|SUV|EV,24/7
+arjun.mehta@seed.local,SeedOwner1!,Arjun Mehta,9800000001,Phoenix West Wing,Viman Nagar Pune,52,3,5,0,0,"0,1,1,1,1|1,1,1,1,1|1,1,1,1,1",Car|2-wheeler|SUV|EV,24/7
+priya.kulkarni@seed.local,SeedOwner2!,Priya Kulkarni,9800000002,Riverfront P1,BKC Mumbai,68,4,4,0,0,"0,1,1,1|1,1,1,1|1,1,0,1|1,1,1,1",Car|SUV|EV,24/7
+priya.kulkarni@seed.local,SeedOwner2!,Priya Kulkarni,9800000002,Riverfront P2,BKC Mumbai,62,3,4,0,0,,Car|2-wheeler|SUV,24/7
+vikram.reddy@seed.local,SeedOwner3!,Vikram Reddy,9800000003,Tech Park North,Hitech City Hyderabad,48,4,5,1,0,"1,1,1,1,1|0,1,1,1,1|1,1,1,1,1|1,1,1,1,1",Car|SUV|EV|2-wheeler,24/7
+vikram.reddy@seed.local,SeedOwner3!,Vikram Reddy,9800000003,Tech Park South,Hitech City Hyderabad,45,3,6,0,2,"1,1,0,1,1,1|1,1,1,1,1,1|1,1,1,1,1,1",Car|2-wheeler|SUV|EV,24/7
+deepa.nair@seed.local,SeedOwner4!,Deepa Nair,9800000004,Orion Mall Deck,Whitefield Bengaluru,58,3,4,0,0,,Car|SUV|EV,24/7
+deepa.nair@seed.local,SeedOwner4!,Deepa Nair,9800000004,Orion Mall Basement,Whitefield Bengaluru,50,4,4,2,2,"1,1,1,1|1,1,1,1|1,1,0,1|1,1,1,1",Car|2-wheeler|SUV|EV,24/7
+manish.gupta@seed.local,SeedOwner5!,Manish Gupta,9800000005,City Centre Alpha,Connaught Place Delhi,72,3,5,0,0,"0,1,1,1,1|1,1,1,1,1|1,1,1,1,1",Car|SUV|EV,24/7
+manish.gupta@seed.local,SeedOwner5!,Manish Gupta,9800000005,City Centre Beta,Connaught Place Delhi,65,5,4,0,0,"0,1,1,1|1,1,1,1|1,1,1,1|1,1,1,1|1,1,1,1",Car|2-wheeler|SUV|EV,24/7

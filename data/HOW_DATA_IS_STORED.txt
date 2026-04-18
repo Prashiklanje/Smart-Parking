@@ -1,0 +1,33 @@
+SMART PARKING — WHERE DATA LIVES
+================================
+
+1) BACKEND SERVER (Node/Express, backend/server.js)
+   - Business data lives in a JavaScript object `db` in RAM:
+     db.users, db.parkingAreas, db.vehicles, db.bookings
+   - Stopping the server clears everything.
+
+2) AUTO-SEED ON EVERY BACKEND START
+   - Folder:  data/seed/
+   - Files loaded in order:
+       1) owners_parking.csv   (owners + parking layouts)
+       2) users_vehicles.csv   (users + vehicles, one row per vehicle)
+       3) bookings.csv         (historical sessions for analytics)
+   - Regenerate CSVs from repo root:
+       node scripts/generate-seed-csvs.js
+   - See data/seed/README.txt for example logins.
+
+3) BROWSER (frontend)
+   - localStorage: JWT + small user profile only.
+
+4) OTHER FILES
+   - data/sample-parking-analytics-dataset.csv — standalone sample for Excel
+     practice only; it is NOT loaded by the server unless you copy rows into
+     data/seed/bookings.csv and align names with seed owners/users.
+
+5) BOOKING TIME FIELDS (live app)
+   - Manual booking: start/end from form (end after start).
+   - Camera: punch-in / punch-out server timestamps.
+   - Payment uses stored end when checkout exists.
+
+6) REGENERATING THE OLD STANDALONE SAMPLE (optional)
+     node scripts/generate-sample-csv.js
